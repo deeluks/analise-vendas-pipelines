@@ -1,11 +1,11 @@
-# 📊 Análise de Vendas | Pipeline de Dados + Power BI
+# Análise de Vendas | Pipeline de Dados + Power BI
 
 Projeto completo de análise de dados com pipeline em Python, integração com SQL Server e visualização no Power BI.
-![Dashboard](dashboard.png)
+![Dashboard]
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python (Pandas)
 * SQL Server
@@ -14,7 +14,7 @@ Projeto completo de análise de dados com pipeline em Python, integração com S
 
 ---
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 * Extração de dados CSV
 * Tratamento e limpeza com Python
@@ -23,7 +23,7 @@ Projeto completo de análise de dados com pipeline em Python, integração com S
 
 ---
 
-## ⚙️ Pipeline de dados
+## Pipeline de dados
 
 1. Extração dos dados (CSV)
 2. Tratamento e limpeza
@@ -33,7 +33,7 @@ Projeto completo de análise de dados com pipeline em Python, integração com S
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 O dashboard apresenta:
 
@@ -47,7 +47,7 @@ O dashboard apresenta:
 
 ---
 
-## 🧠 Insights
+##  Insights
 
 * Crescimento consistente após 2016
 * Categoria de tecnologia lidera as vendas
@@ -55,7 +55,7 @@ O dashboard apresenta:
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório
 2. Instale as dependências:
@@ -73,12 +73,12 @@ python main.py
 
 ---
 
-## 📌 Observações
+##  Observações
 
 Projeto desenvolvido com foco em práticas de mercado para análise de dados e construção de pipelines.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Lucas Castellini
